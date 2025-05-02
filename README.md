@@ -1,9 +1,9 @@
 # bolt-unreal-engine-sdk
 
 <div align="center" style="display:flex;justify-content:center;margin-bottom:20px">
-  <img src="https://res.cloudinary.com/dugcmkito/image/upload/v1744983998/bolt_accounts_2x_6c96bccd82.png" alt="Bolt Charge Hero" height="200px">
+  <img src="https://res.cloudinary.com/dugcmkito/image/upload/v1744983998/bolt_accounts_2x_6c96bccd82.png" alt="Bolt Charge Hero" height="250px">
 
-  <img src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png" height="200px" />
+  <img src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png" height="250px" />
 </div>
 
 <br>
