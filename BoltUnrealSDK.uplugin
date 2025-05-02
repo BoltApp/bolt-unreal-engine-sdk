@@ -1,0 +1,15 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Bolt Unreal SDK",
+  "Description": "Bolt WebView and API integration SDK for Unreal Engine.",
+  "Category": "Utility",
+  "Modules": [
+    {
+      "Name": "BoltUnrealSDK",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
