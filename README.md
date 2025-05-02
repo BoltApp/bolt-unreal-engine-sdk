@@ -7,6 +7,7 @@
 </div>
 
 <br>
+<br>
 
 Native Unreal Engine support for [Bolt Charge](https://www.bolt.com/charge), a fully hosted webshop for out-of-app purchases and subscriptions.
 
@@ -62,9 +63,10 @@ The SDK supports Unreal Engine 5+. Code might work for older versions but is not
     ```
     YourProject/
     └── Plugins/
-    └── BoltUnrealSDK/
-        ├── BoltUnrealSDK.uplugin
-        └── Source/
+        └── BoltUnrealSDK/
+            ├── BoltUnrealSDK.uplugin
+            ├── README.md
+            └── Source/BoltUnrealSDK/...
     ```
 4. Restart Unreal Engine.
 5. When prompted, click Yes to rebuild the plugin binaries if required.
