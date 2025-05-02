@@ -3,7 +3,7 @@
 <div align="center" style="display:flex;justify-content:center;margin-bottom:20px">
   <img src="https://res.cloudinary.com/dugcmkito/image/upload/v1744983998/bolt_accounts_2x_6c96bccd82.png" alt="Bolt Charge Hero" width="40%" style="padding:20px">
 
-  <img src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png" width="40%" />
+  <img src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png" width="40%" style="max-height:270px" object-fit="contain" />
 </div>
 
 <br>
