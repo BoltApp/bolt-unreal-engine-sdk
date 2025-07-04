@@ -1,9 +1,6 @@
 # Bolt Unreal Engine SDK
 
-<div align="center" style="display:flex;justify-content:center;margin-bottom:20px">
-  <img src="https://res.cloudinary.com/dugcmkito/image/upload/v1744983998/bolt_accounts_2x_6c96bccd82.png" alt="Bolt Charge Hero" height="250px">
-  <img src="https://cdn.sanity.io/images/fuvbjjlp/production/bd6440647fa19b1863cd025fa45f8dad98d33181-2000x2000.png" height="250px" />
-</div>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/12603470/462617953-3df8c9b5-b690-479d-a530-a57ecde3bbb9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250704T190544Z&X-Amz-Expires=300&X-Amz-Signature=b894ff1c1f5f4fd6142d7c1fcc4b91318352f384e156a3f241644beaa2a4c3de&X-Amz-SignedHeaders=host" alt="Bolt Charge Hero">
 
 
 
