@@ -18,7 +18,7 @@ We also support other platforms:
     <td align="center" width="150">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" height="60" alt="JavaScript"/><br>
       <b>JavaScript</b><br>
-      <a href="https://github.com/BoltApp/bolt-frontend-sdk">Frontend Web SDK</a>
+      <a href="https://github.com/BoltApp/bolt-frontend-sdk">JavaScript SDK</a>
     </td>
     <td align="center" width="150">
       <img src="https://cdn.sanity.io/images/fuvbjjlp/production/bd6440647fa19b1863cd025fa45f8dad98d33181-2000x2000.png" width="60" height="60" alt="Unity"/><br>
@@ -26,7 +26,7 @@ We also support other platforms:
       <a href="https://github.com/BoltApp/bolt-unity-sdk">Unity SDK</a>
     </td>
     <td align="center" width="150">
-      <img src="https://camo.githubusercontent.com/416d2f81dcfee6991a059240e349bb4dc47896c63f7a775cd4fae482cec2e7c2/68747470733a2f2f63646e322e756e7265616c656e67696e652e636f6d2f75652d6c6f676f747970652d323032332d766572746963616c2d77686974652d3136383678323034382d6262666465643236646161372e706e67" width="49" height="60" alt="Unreal"/><br>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUf3R8LFTgqC_8mooGEx7Fpas9kHu8OUxhLA&s" width="60" height="60" alt="Unreal"/><br>
       <b>Unreal Engine</b><br>
       <i>This Repo</i>
     </td>
